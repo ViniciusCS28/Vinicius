@@ -1,2 +1,2 @@
-print('Olá otario')
+print('Olá lindo')
 #Adicionei essa coisa por aqui
